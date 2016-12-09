@@ -38,6 +38,52 @@
     "waveBottom": 660,
     "waveTop": 320
   },
+  "Police": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "police.jpg",
+    "foregroundColor": "#9ed53d",
+    "waveBottom": 660,
+    "waveTop": 320,
+    "captionFont": "bold 52px 'Source Sans Pro'",
+    "maxDuration": 1200
+  },
+  "16 Days of Activism": {
+    "captionAlign": "right",
+    "captionTop": 600,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "foregroundColor": "#ddc",
+    "waveColor": "#db820f",
+    "waveBottom": 400,
+    "waveTop": 60,
+    "captionFont": "bold 52px 'Source Sans Pro'",
+    "backgroundImage": "activism.jpg",
+    "maxDuration": 1200
+  },
+  "Seif Ples": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "foregroundColor": "#f79647",
+    "captionFont": "bold 52px 'Source Sans Pro'",
+    "backgroundImage": "seif_ples.jpg",
+    "maxDuration": 1200
+  },
+  "Red Speaker": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "foregroundColor": "#edc",
+    "waveColor": "#558",
+    "captionFont": "bold 52px 'Source Sans Pro'",
+    "backgroundImage": "red_speaker.jpg",
+    "maxDuration": 1200
+  },
   "Bars": {
     "pattern": "bars",
     "foregroundColor": "#d84a4a"
